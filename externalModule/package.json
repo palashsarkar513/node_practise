@@ -1,0 +1,19 @@
+{
+  "name": "externalmodule",
+  "version": "1.0.0",
+  "description": "practise for making an external module",
+  "main": "Fruits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package"
+  ],
+  "author": "palash sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.4"
+  }
+}
